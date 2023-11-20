@@ -1,4 +1,4 @@
-
+![logo](https://github.com/KhalilFarhany/KhalilFarhany/blob/main/Believe%20in%20yourself..png)
 <h1 align="center">Hi 👋, I'm khalil Farhany</h1>
 <h3 align="center"> computer science student</h3>
 
